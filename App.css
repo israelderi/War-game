@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+}
+body{
+  background: url(https://wallpaperaccess.com/full/1488042.jpg);
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+.FirsTitel{
+  font-size:100px;
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  height: 120px;
+  width: 600px;
+  background-color: black;
+  border-radius: 80px;
+  border: 2px solid rgb(240, 5, 5);
+  margin-left: auto;
+    margin-right: auto;
+  padding: 1.5px 2px;
+  
+}
+.HomeGame{
+  width: 500px;
+  height: 250px;
+  background-color: black;
+  border: 2px solid rgb(240, 5, 5);
+  border-radius: 80px;
+  color: rgb(13, 92, 3);
+  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+.startName{
+  width: 300px;
+  height: 50px;
+  border-radius: 80px;
+  border: 3px solid rgb(248, 40, 40);
+  font-size: 32px;
+  text-align: center;
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.startGame{
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(49, 49, 248);
+  height: 50px;
+  width: 180px;
+  color: white;
+  border-radius: 100px;
+  border: none;
+  font-size: 35px;
+}
+#HelloPlayer{
+  font-size: 50px;
+  color: grey;
+  background-color: black;
+  border-radius: 30px;
+  border: 3px solid;
+  width: 580px;
+  height: 65px;
+  text-align: center;
+  margin: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.Playername{
+  display: inline;
+  color: rgb(0, 55, 255);
+}
+.Card{
+margin: auto;
+margin-left: auto;
+margin-right: auto;
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljHz7iJoIpfVdey4p6w2L34WWr0TvMet34_pCq-D8MklCkdesCRDDhIWE_X5WmEEBmyA&usqp=CAU);
+background-size:200px 195px;
+background-repeat: no-repeat;
+width: 180px;
+height: 150px;
+background-color: black;
+color: black;
+font-size: 75px;
+border: 3px solid red;
+padding: 45px 0px 0px 0px;
+
+}
+
+#nameGame{
+  font-size: 30px;
+  color: blue;
+  display: inline;
+  
+}
+.buttGame{
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  color: red;
+  border-radius: 40px;
+  font-size: 25px;
+  border: 2px solid grey;
+
+}
+.EndGame{
+  
+  color: rgb(232, 229, 229);
+  width: 400px;
+  height: 500px;
+  background-color: black;
+  margin-left: auto;
+margin-right: auto;
+border:10px solid rgb(135, 131, 131);
+border-radius: 65px;
+
+}
+#endTitel{
+  font-size: 60px;
+  color: rgb(232, 229, 229);
+  
+}
